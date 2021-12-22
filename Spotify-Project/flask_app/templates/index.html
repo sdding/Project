@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <div style="text-align : center;">
+            <img src="{{'https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/spotify_musik_stream_4.jpg'}}"class="img-fluid"width="400" height="300"><br>
+            <center><h1>Spotify Playlist</h1></center>
+         </div>
+    </head>
+    
+    <body>
+        <center>
+        <form method='POST' action = 'http://127.0.0.1:5000/recommend'>
+            <h2>Track : <input name = 'track' type='text'/><br></h2>
+            <h2>Artist : <input name = 'artist' type='text'/><br></h2>
+        <input type='submit'></form>
+        </center>
+    </body>
+</html>
