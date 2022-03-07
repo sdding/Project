@@ -6,7 +6,8 @@
 ## 2. 가설 설정
    * danceability가 높은 곡이 popularity가 높을 것이다(외국은 신나는 곡이 보통 빌보드 1위를 하기 때문)
 ## 3. 데이터 분석
-   * danceability, energy, valence
+   * 특성들 중 곡의 신나는 분위기를 알 수 있는 danceability, energy, valence는 높을수록 인기가 많음
+   * 장르는 댄스, 힙합, 팝 음악이 인기도가 가장 높음
 ## 4. 모델링
    * NN모델로 다중 분류 모델
    * Flask를 이용한 간단한 웹서버 개발
