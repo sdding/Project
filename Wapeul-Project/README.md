@@ -4,7 +4,8 @@
 * **기업 요구사항**  
   * Target인 ecg 예측 모델링  
   * 주어진 Radar 데이터에서 정확한 ecg를 예측하기 위한 개인별, FFT크기별 데이터 분석 (DA)  
-  * 데이터를 활용한 ML/DL 모델 파이프라인 구축 프로젝트  (ensemble, svm 사용)
+  * 데이터를 활용한 ML/DL 모델 파이프라인 구축 프로젝트
+  * ensemble/svm/rf 를 활용한 정확도 90% 이상
   * 주어진 평가지표
   
     ![Untitled](https://user-images.githubusercontent.com/86766081/163770911-03c3b82d-f92e-4d20-8a6d-e073986db5fe.png)
