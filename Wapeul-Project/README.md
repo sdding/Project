@@ -10,7 +10,8 @@
   
     ![Untitled](https://user-images.githubusercontent.com/86766081/163770911-03c3b82d-f92e-4d20-8a6d-e073986db5fe.png)
     
-    에러율 = |실제값 - 측정값| / 실제값 x 100
+    에러율 = |실제값 - 측정값| / 실제값 x 100  
+    MSE
    
 ## 1. 데이터
 
