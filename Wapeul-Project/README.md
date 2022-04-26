@@ -7,7 +7,7 @@
   * 데이터를 활용한 ML/DL 모델 파이프라인 구축 프로젝트
   * ensemble/svm 를 활용한 정확도 90% 이상
   * 주어진 평가지표  
-    MSE
+    MSE, MAE
   
     ![Untitled](https://user-images.githubusercontent.com/86766081/163770911-03c3b82d-f92e-4d20-8a6d-e073986db5fe.png)
     
