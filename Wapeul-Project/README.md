@@ -29,11 +29,11 @@
     bin2  : 사물위치 3.6x2 cm 뒤
     
     512fft : 512 frame window (512/20=25.6초 윈도우)의 FFT로 BPM
-    400fft : 400
-    300fft : 300
-    200fft : 200
-    100fft : 100
-    70fft  : 70
+    400fft : 400  //
+    300fft : 300  //
+    200fft : 200  //
+    100fft : 100  //
+    70fft  : 70   //
 
     bin_var : 큰 움직임(3.6 cm)의 정도
     motion_energy : 작은 움직임(레이더 신호의 흔들림 크기)의 정도
